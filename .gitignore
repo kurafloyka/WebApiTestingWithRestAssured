@@ -1,0 +1,5 @@
+allure-results
+target
+src/test/resources/mylogs.log
+.allure
+.idea
